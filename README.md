@@ -43,10 +43,10 @@ git clone https://github.com/MohammadJarrar1201726/SpringBoot-Book-Managemenet-A
 ```
 
 ### 2️⃣ Configure Database
-Create a PostgreSQL database named `book_author_db` and update credentials in `src/main/resources/application.properties`:
+Create a PostgreSQL database named `postgres` and update credentials in `src/main/resources/application.properties`:
 
 ```properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/book_author_db
+spring.datasource.url=jdbc:postgresql://localhost:5432/postgres
 spring.datasource.username=your_username
 spring.datasource.password=your_password
 ```
