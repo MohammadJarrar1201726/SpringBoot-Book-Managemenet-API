@@ -39,7 +39,7 @@ This Spring Boot application manages books and authors, offering endpoints for c
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/abdullahsn10/springboot-books-api
+git clone https://github.com/MohammadJarrar1201726/SpringBoot-Book-Managemenet-API
 ```
 
 ### 2️⃣ Configure Database
